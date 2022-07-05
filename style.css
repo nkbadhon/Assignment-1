@@ -2,21 +2,18 @@ body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto Slab', serif;
     font-family: 'Ubuntu', sans-serif;
+    margin: 0;
 }
 
-.first-section {
+.first-div {
     background-image: url(images/donation999.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    margin: 0;
-    padding: 0;
-
-
-
+    height: 100vh;
 }
 
 .head-line {
-    padding-top: 30%;
+    padding-top: 25%;
 }
 
 .h1 {
@@ -28,5 +25,16 @@ body {
 .h3 {
     color: white;
     text-align: center;
+}
+
+.donate {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(107, 107, 233), rgb(70, 98, 224));
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border-radius: 3px;
+    padding: 10px 40px;
+    text-align: center;
+    margin-left: 45%;
 
 }
