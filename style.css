@@ -104,3 +104,29 @@ body {
     text-align: center;
     margin-left: 45%;
 }
+
+.package {
+    margin-top: 130px;
+}
+
+.donation-pack-header {
+    font-size: 60px;
+    text-align: center;
+}
+
+.three_pack {
+    padding: 160px 130px;
+    background-color: rgb(225, 225, 225);
+    margin: 2px 10px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.flexible-2 {
+    display: flex;
+    color: rgb(3, 60, 60);
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 90px;
+    margin-right: 90px;
