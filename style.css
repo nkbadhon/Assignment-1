@@ -165,8 +165,8 @@ body {
 
 .donation-instructions {
     width: 50%;
-    margin-left: 150px;
-    margin-right: 20px;
+    margin-left: 220px;
+    margin-right: 50px;
 }
 
 .donation-head {
@@ -197,7 +197,8 @@ body {
 
 #ecom-img {
     width: 70%;
-    margin-right: 15px;
+    margin-right: 3x;
+    margin-top: 40px;
 }
 
 #final-sec {
