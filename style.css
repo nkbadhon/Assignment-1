@@ -173,6 +173,7 @@ body {
 
 .instruction {
     font-size: 20px;
+    margin-top: 20px;
 }
 
 #procedure-1 {
@@ -197,15 +198,52 @@ body {
 }
 
 #final-sec {
-    margin-top: 250px;
+    margin-top: 150px;
 }
 
 #get-update {
     text-align: center;
-    margin: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 
 .get-update-head {
     text-align: center;
     font-size: 60px;
+}
+
+.mailbox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
+    background-color: blanchedalmond;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 9px;
+
+
+}
+
+#input-mail {
+    font-size: 20px;
+    font-weight: 700;
+    width: 400px;
+    height: 40px;
+    text-align: left;
+    border-radius: 5px;
+    background-color: rgb(208, 201, 192);
+    padding-left: 20px;
+    border-color: unset;
+
+}
+
+#subscribe {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(107, 107, 233), rgb(70, 98, 224));
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    border-radius: 3px;
+    padding: 14px 40px;
+    text-align: center;
 }
