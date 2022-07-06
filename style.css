@@ -245,17 +245,28 @@ body {
     text-align: center;
 }
 
-#footer {
+
+
+.footer-div {
     align-items: center;
     justify-content: center;
     padding: 50px;
     margin-top: 50px;
+    margin-left: 0;
+    margin-right: 0;
     background-color: black;
 }
 
-#footer-head {
+.footer-head {
     font-size: 40px;
     text-align: center;
+    color: rgb(113, 10, 10);
+    font-family: 'Lobster', cursive;
+}
+
+#foot-paragraph {
     color: white;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 20px;
 }
